@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759383253719",
+    "project_id": "raz-spaceapp",
+    "storage_bucket": "raz-spaceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759383253719:android:3bf0729c29a4c9e5258692",
+        "android_client_info": {
+          "package_name": "com.spaceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTKVRP_l1xuQ5kyrIxy31C8X1JmGD-5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
